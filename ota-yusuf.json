@@ -1,0 +1,6 @@
+{
+	"version": "17.3",
+	"changelog": "— Android 12+ için Monet teması eklendi;\n— Monet temasını devre dışı bırakma eklendi;\n— Bazı cihazlarda Besleme yüklenmesi düzeltildi ;\n— sabit indirme düğmesi eklendi;\n— Sabit Alte & Hoefler Yeni yazı tipleri eklendi ;\n— Hedef SDK'yı 33'e yükseltti.",
+	"changelog-ru": "— Android 12+ teması eklendi;\n— Добавлено отключение темы Monet;\n— Исправлена загрузка ленты на некоторых устройствах;\n— Исправлена кнопка загрузки Reels;\n— Исправлены шрифты Alte & Hoefler New;\n— Повышение целевого SDK до 33.",
+	"link": "https://ota.thedise.me/instander/clone/instander-17.2-c.apk"
+}
