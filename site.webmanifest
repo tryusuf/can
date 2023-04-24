@@ -1,0 +1,21 @@
+{
+  "short_name": "trdiyok",
+  "name": "trdiyok.net",
+  "icons": [
+    {
+      "src": "https://resmim.net/cdn/2023/04/24/SmzZYK.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://resmim.net/cdn/2023/04/24/SmzSWh.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/maps/?source=pwa",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/maps/",
+  "theme_color": "#3367D6"
+}
