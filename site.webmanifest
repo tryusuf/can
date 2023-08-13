@@ -1,6 +1,9 @@
 {
   "short_name": "trdiyok",
   "name": "trdiyok.net",
+  "categories": ["books", "education"],
+  "dir": "ltr",
+  "lang": "tr-TR",
   "icons": [
     {
       "src": "https://resmim.net/cdn/2023/04/24/SmzZYK.png",
