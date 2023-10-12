@@ -1,17 +1,17 @@
 {
-  "short_name": "trdiyok",
-  "name": "trdiyok.net",
+  "short_name": "Yusuf",
+  "name": "Birlikte yaşa, yalnız öl.",
   "categories": ["books", "education"],
   "dir": "ltr",
   "lang": "tr-TR",
   "icons": [
     {
-      "src": "https://resmim.net/cdn/2023/04/24/SmzZYK.png",
+      "src": "https://i.hizliresim.com/arf58uf.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://resmim.net/cdn/2023/04/24/SmzSWh.png",
+      "src": "https://i.hizliresim.com/mtiymri.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -22,3 +22,6 @@
   "scope": "/maps/",
   "theme_color": "#3367D6"
 }
+
+
+
